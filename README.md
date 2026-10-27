@@ -167,12 +167,3 @@ in your browser.
 ---
 
 ## Team Project
-
-Smart Bus Tracking System
-
-Role: **Person B**
-
-Feature:
-**Arrival Time Prediction (ETA)**
-
-Developed as part of the Smart Bus Tracking System team project.
